@@ -1,7 +1,8 @@
 # 4DE-Control-System
 4D Enhanced Control System for Home Theaters (wind, rain, fog, strobe)
 
-#Hardware: 
+#Hardware:
+
 #Server:
 - Windows PC running 4DE Control Software (in the works)
 
